@@ -19,8 +19,9 @@ D. Who are the important investors in the Indian Ecosystem?
 E. How much funds does startups generally get in India?
 
 
--> I will appreciate your feedback and suggestions which will help me grow more.
 
--> I am a data enthusiast and building my career in Data Science. Please give feedback and upvote if you like this article. You can connect with me on LinkedIn (https://www.linkedin.com/in/charulata-shelar-9726984a)
+### I am a data enthusiast and building my career in Data Science. I will appreciate your feedback and suggestions which will help me grow more. 
 
-see you soon...
+You can connect with me on LinkedIn (https://www.linkedin.com/in/charulata-shelar-9726984a)
+
+see you soon with a new dataset in action...
