@@ -7,6 +7,7 @@ Today we will explore Indian startup funding data and try to gain information ab
 Data can be taken from (https://www.kaggle.com/sudalairajkumar/indian-startup-funding) or can be scraped from (https://trak.in/india-startup-funding-investment-2015/) to get latest data.
 
 We will try to explore the data by answering below questions:
+
 A. How does the funding ecosystem change with time?
 
 B. Do cities play a major role in funding?
